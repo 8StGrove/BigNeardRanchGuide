@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_text">Constinople is the largest City in Turkey</string>
+    <string name="true_button">True</string>
+    <string name="false_button">false</string>
+    <string name="menu_settings">Settings</string>
+</resources>
